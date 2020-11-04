@@ -1,0 +1,23 @@
+header{
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.accounting{
+	color:lightgreen;
+}
+
+.telefon{
+	color: grey;
+	margin-left: 5%;
+	padding-top: 1%;
+}
+
+.idiomes{
+	color: grey;
+	margin-left: 50%;
+}
+
+li{
+	list-style-type: none;
+}
